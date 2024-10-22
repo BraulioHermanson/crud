@@ -2,7 +2,7 @@
 name = "crud"
 version = "0.1.0"
 description = ""
-authors = ["BraulioHermanson <>"]
+authors = ["BraulioHermanson <brauliohcampos0@outlook.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
